@@ -1,14 +1,10 @@
 # Project Overview
 
----
-
 This project conducts a **product performance analysis on Foodpanda**, Asia’s leading food and grocery delivery platform, with the ultimate goal of developing a **data-driven recommendation system**. By evaluating sales across **region, city, gender, and age group**, the analysis uncovers customer preferences, purchasing patterns, and product trends.
 
 The insights will identify high-performing and underperforming products, forming the foundation for a recommendation engine that suggests the right products to the right customers. These data-driven recommendations will also guide **targeted marketing strategies** such as loyalty programs, discounts, and personalized offers, ensuring improved customer engagement, retention, and revenue growth.
 
 # Data Structure
-
----
 
 The dataset comprises **transactional sales records from August 2023 to August 2025**, with each entry representing a single order placed on Foodpanda. It captures both **product-level details** (e.g., product category, price, order quantity, payment method) and **customer demographics** (e.g., region, city, gender, age group), making it well-suited for analyzing product performance and consumer behavior across different segments.
 
@@ -24,15 +20,12 @@ The dataset comprises **transactional sales records from August 2023 to August 2
 
 # Executive Summary
 
----
 
 This project analyzes Foodpanda’s product performance to support the development of a **data-driven recommendation system**. Insights from the recommendation dashboard reveal high-demand products, leading cities, and seasonal sales patterns. Burgers, used as an example, show peak demand in **Multan, Lahore, and Islamabad**, particularly between **April and September**. These findings demonstrate how product insights can drive **targeted recommendations, promotions, and loyalty strategies**, ultimately boosting growth and customer engagement.
 
 ![image.png](https://github.com/osaze32/Foodpanda-Product-Analysis-Data-Driven-Recommendation-System/blob/main/Foodpanda_Dashboard.png)
 
 # Recommendations
-
----
 
 The recommendations were derived from the **recommendation dashboard**, with burgers highlighted as an example to demonstrate how product insights guide decision-making. Although burgers were used for illustration, the same approach can be applied to other product categories to support targeted strategies and enhance overall performance.
 
